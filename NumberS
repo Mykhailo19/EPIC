@@ -1,2 +1,17 @@
-This line is first
-Second line
+<!DOCTYPE html>
+<html>
+
+<footer>
+	<table align="center" border=0>
+		<tr>
+			<td>
+				<div class="footer" style="color:white" align="center" valign="bottom">
+					<!-- За контактною інформацією звертатись за телефоном: 0680264982 або напишіть на email: mykhailo_kulachok@gmail.com  -->
+				</div>	
+			</td>
+		</tr>
+	</table>
+
+</footer>
+
+</html>
